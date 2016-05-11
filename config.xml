@@ -7,11 +7,11 @@
 	 
 	 <!--versionCode is optional and Android only-->
 	 
-	 <name>Datos del Dispositivo</name>
+	 <name>App8 Swipe con la pantalla</name>
 	 
-	 <descriptio>
-	  Aplicacion que muestra datos del Dispositivo
-	 </descriptio>
+	 <description>
+	  Aplicacion que desliza la pantalla hacia la derecha e izquierda
+	 </description>
 	 
 	 <preference name="phonegap-version" value="3.1.0"/>
 	 
